@@ -10,6 +10,8 @@
 
 ![Στιγμιότυπο οθόνης 2023-06-05 011430](https://github.com/KostantinosPapachristos/StudentDatabase/assets/141930682/a88d8f1f-6dd8-4a03-a514-5649b5c4432c)
 
+#### As you can see when it is updated or searched on the database of SQL from Eclipse programm everything checks out and changes feom inside the server.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Στιγμιότυπο οθόνης 2023-06-05 011644](https://github.com/KostantinosPapachristos/StudentDatabase/assets/141930682/50a19d6b-ab38-45a5-99a0-07ef8990a73c)
 

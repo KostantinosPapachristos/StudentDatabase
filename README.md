@@ -15,6 +15,7 @@
 
 ![Στιγμιότυπο οθόνης 2023-06-05 022424](https://github.com/KostantinosPapachristos/StudentDatabase/assets/141930682/f6cd6aeb-f354-4194-b492-cb7c3ac1e13e)
 
+#### As you can see when it is deleted from the Eclipse side, it is gone in the SQL server.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

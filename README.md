@@ -8,8 +8,11 @@
 
 ![Στιγμιότυπο οθόνης 2023-06-05 011453](https://github.com/KostantinosPapachristos/StudentDatabase/assets/141930682/0188c49a-fbc9-40de-ba16-8ea8ae22177a)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Στιγμιότυπο οθόνης 2023-06-05 011644](https://github.com/KostantinosPapachristos/StudentDatabase/assets/141930682/50a19d6b-ab38-45a5-99a0-07ef8990a73c)
 
 ![Στιγμιότυπο οθόνης 2023-06-05 022424](https://github.com/KostantinosPapachristos/StudentDatabase/assets/141930682/f6cd6aeb-f354-4194-b492-cb7c3ac1e13e)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Στιγμιότυπο οθόνης 2023-06-05 011430](https://github.com/KostantinosPapachristos/StudentDatabase/assets/141930682/a88d8f1f-6dd8-4a03-a514-5649b5c4432c)
